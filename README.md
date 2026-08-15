@@ -34,14 +34,13 @@ Gosto de me aventurar em alguns jogos e atualmente não trabalho na área de TI,
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dudu1jvm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="center">
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=dudu1jvm&theme=aura&hide_border=false&border_radius=10" />
+  </a>
+</p>
 
 <img 
       align="left" 
