@@ -42,12 +42,3 @@ Gosto de me aventurar em alguns jogos e atualmente não trabalho na área de TI,
   </a>
 </p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudu1jvm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
