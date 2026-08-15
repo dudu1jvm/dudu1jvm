@@ -3,7 +3,7 @@
 **`Desenvolvedor Backend`**
 
 Me chamo Eduardo, tenho 18 anos e sou estudante de ADS/SI na **ITE**   (instituição toledo de ensino). Atualmente focado em Python e Java como linguagens de programação, mas também estou estudando um pouco sobre SQL e Linux, gosto muito de aprender coisas novas relacionadas a tecnologia em geral.
-Gosto de me aventurar em alguns jogos e atualmente não trabalho na área de TI, porém em busca de uma oportunidade.
+Gosto de me aventurar em alguns jogos e atualmente não trabalho na área de TI, porém em busca de uma oportunidade.👋
 
 
 ---
